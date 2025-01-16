@@ -27,7 +27,7 @@ The `NonBlockingDelay` library provides a mechanism to implement non-blocking de
 
 1. Clone or download the repository:
    ```bash
-   git clone https://github.com/your-repo/NonBlockingDelay.git
+   git clone https://github.com/NaveItay/NonBlockingDelay_efr32.git
 2. Include the `NonBlockingDelay.h` and `NonBlockingDelay.c` files in your project directory.
 3. Add the necessary include paths in your compiler settings to ensure the library files are recognized.
 4. Make sure your project includes the required device-specific headers for SysTick and clock management.
@@ -84,7 +84,7 @@ int main(void)
     }
 }
 
----
+```
 
 ## License
 
